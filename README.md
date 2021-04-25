@@ -45,7 +45,7 @@ Sorting in **df.cut.head(1)** output : 'Ideal' < 'Premium' < 'Very Good' < 'Good
 IMPORTANT!!!!
 **Our aim in ML is to try to explain the information existing in the dependent variable we aim with, by different variables.**
 
-**Boxplot :** to visualize continuous variables. We are using the dataset called 'tips'. 
+**Boxplot :** to visualize continuous variables. Helps in monitoring outliers. We are using the dataset called 'tips'. 
 - "total_bill" The total price of the meal (including tip and VAT)
 - "tip"
 - "sex" gender of the person paying  (0=male, 1=female)
