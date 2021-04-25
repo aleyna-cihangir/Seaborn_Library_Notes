@@ -16,3 +16,4 @@ We have different two ways :
 
 - We can call all missing values ​​in the array as zero : **df["value_name"].fillna(0, inplace=True)**
 - Or we can assign the mean value into the array : **df["value_name"].fillna(df.value_name.mean(), inplace=True)**
+
