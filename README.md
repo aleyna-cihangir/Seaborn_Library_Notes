@@ -5,16 +5,11 @@ I worked on the Seaborn Library's dataset called "planets".
 FIRST QUESTION WE WILL ASK:
 
 What is the Story of the Data Set? In our dataset, the method is the way galaxies are found.
-
-"number" refers to the number of planets in the system.
-
-"orbital_period" refers to the orbital period.
-
-"mass" means mass.
-
-"distance" refers to distance.
-
-"year" found date.
+- "number" refers to the number of planets in the system.
+- "orbital_period" refers to the orbital period.
+- "mass" means mass.
+- "distance" refers to distance.
+- "year" found date.
 
 **Missing Values**  
 We have different two ways :
