@@ -1,6 +1,6 @@
 # Seaborn Library
  
-I worked on the Seaborn Library's datasets called "planets" , "diamonds".
+I worked on the Seaborn Library's datasets called "planets" , "diamonds" , "tips".
 
 FIRST QUESTION WE WILL ASK:
 
@@ -37,4 +37,22 @@ We have different two ways :
 
 Sorting in **df.cut.head(1)** output : 'Ideal' < 'Premium' < 'Very Good' < 'Good' < 'Fair'  
 
-     
+
+
+**FacetGrid :** used to show dimensions added on the chart
+
+
+IMPORTANT!!!!
+**Our aim in ML is to try to explain the information existing in the dependent variable we aim with, by different variables.**
+
+**Boxplot :** to visualize continuous variables. We are using the dataset called 'tips'. 
+- "total_bill" The total price of the meal (including tip and VAT)
+- "tip"
+- "sex" gender of the person paying  (0=male, 1=female)
+- "smoker" any smoker in the group (0= NO, 1=YES)
+- "day" 
+- "time" (0=day, 1=night)
+- "size" how many person in this group
+
+
+
