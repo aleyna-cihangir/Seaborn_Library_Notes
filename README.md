@@ -1,6 +1,6 @@
 # Seaborn Library
  
-I worked on the Seaborn Library's datasets called "planets" , "diamonds" , "tips" , "iris".
+I worked on the Seaborn Library's datasets called "planets" , "diamonds" , "tips" , "iris" , "flights" , "fmri" ,.
 
 FIRST QUESTION WE WILL ASK:
 
