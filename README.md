@@ -34,6 +34,7 @@ We have different two ways :
 
 
 **NOTE :** In our dataset story, our ranking is listed as "fair-good-very good-premium-ideal". 
-Sorting in df.cut.head(1) output : 'Ideal' < 'Premium' < 'Very Good' < 'Good' < 'Fair'  
+
+Sorting in **df.cut.head(1)** output : 'Ideal' < 'Premium' < 'Very Good' < 'Good' < 'Fair'  
 
      
