@@ -21,4 +21,4 @@ We have different two ways :
 
 **Scatter Charts :**
 - **BarPlot :** column chart, It is used to visualize the categorical data we have. We are using the dataset called 'diamonds'.
-- 
+     -- prmjsna
