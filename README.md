@@ -56,3 +56,8 @@ IMPORTANT!!!!
 
 
 
+**Violin Chart :** locations in centers, a graphic boxplot-like graph in the middle, presenting the central trend
+
+
+**Correlation Graphs :** expresses the relationship between variables
+
