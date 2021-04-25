@@ -1,6 +1,6 @@
 # Seaborn Library
  
-I worked on the Seaborn Library's datasets called "planets" , "diamonds" , "tips".
+I worked on the Seaborn Library's datasets called "planets" , "diamonds" , "tips" , "iris".
 
 FIRST QUESTION WE WILL ASK:
 
@@ -60,4 +60,9 @@ IMPORTANT!!!!
 
 
 **Correlation Graphs :** expresses the relationship between variables
+
+
+**Scatter Plot Matrix :**
+- If there is no structural form, there is no relationship between these two variables.
+- When the observation points are examined, we can say that if there are clusters at different corners, there are sub-clusters.
 
