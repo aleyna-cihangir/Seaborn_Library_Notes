@@ -4,7 +4,7 @@ I worked on the Seaborn Library's datasets called "planets" , "diamonds" , "tips
 
 FIRST QUESTION WE WILL ASK:
 
-What is the Story of the Data Set? In our dataset, the method is the way galaxies are found.
+What is the Story of the Data Set? In our dataset, the method is the way planets are found.
 - "number" refers to the number of planets in the system.
 - "orbital_period" refers to the orbital period.
 - "mass" means mass.
